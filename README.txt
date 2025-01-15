@@ -3,7 +3,7 @@ READ ME
 A Spatio-Temporal Dirichlet Process Mixture Model on Linear Networks for Crime Data
 
 Download data and code here:
-https://www.dropbox.com/scl/fo/me61bfufrte00d8y5cat4/AB13ZtLzeoPZ39KDjt0xpfE?rlkey=md6bzl588fjr7rs0n745qg8xl&st=8ewv6sy6&dl=0
+https://www.dropbox.com/scl/fo/me61bfufrte00d8y5cat4/AB13ZtLzeoPZ39KDjt0xpfE?rlkey=md6bzl588fjr7rs0n745qg8xl&st=pm0ulx4x&dl=0
 
 1. data
 1) robbery.csv, theft.csv: crime location
